@@ -1,3 +1,6 @@
+body{
+  margin: 0;
+}
 .header{
   text-align: center;
   margin-bottom: 100px;
@@ -8,4 +11,6 @@
 .Receipt{
   margin-top: 80px;
   text-align: center;
+  text-decoration: none;
+  display: none;
 }

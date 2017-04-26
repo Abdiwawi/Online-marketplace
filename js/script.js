@@ -7,10 +7,8 @@ $(document).ready(function() {
     var HouseNumber = $("input#HouseNumber") .val();
 
     $(".Firstname").append(FirstnameInput);
-         $(".Surname").append(SurnameInput);
-         $(".Residence").append(ResidenceInput);
-         $(".StreetAddress").append(StreetAddressInput);
-         $(".verb").append(verbInput);
-         $(".noun").append(nounInput);
-
+    $(".Surname").append(SurnameInput);
+    $(".Residence").append(ResidenceInput);
+    $(".StreetAddress").append(StreetAddressInput);
+    $(".HouseNumber").append(HouseNumberInput);
 }

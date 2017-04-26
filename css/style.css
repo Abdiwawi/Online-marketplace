@@ -14,3 +14,8 @@ body{
   text-decoration: none;
   display: none;
 }
+#story{
+  display: none;
+  margin-top: 100px;
+  text-align: center;
+}

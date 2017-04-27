@@ -14,6 +14,7 @@ $(document).ready(function() {
 
       $("#story").show();
       $(".Receipt").show();
+      $("#blanks").fadeOut();
 
       event.preventDefault();
     });
